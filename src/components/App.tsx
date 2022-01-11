@@ -6,8 +6,8 @@ import { disconnect, initWAMP } from 'services/wamp'
 
 
 export default function App() {
-    const [address, setAddress] = useState('18.213.11.130:7701')
-    const [realm, setRealm] = useState('RC')
+    const [address, setAddress] = useState('')
+    const [realm, setRealm] = useState('')
     const [isConnecting, setIsConnecting] = useState(false)
     const [isConnected, setIsConnected] = useState(false)
     const toast = useToast()
