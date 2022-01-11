@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/wamp-client/static/css/main.0f9edf1c.chunk.css",
-    "main.js": "/wamp-client/static/js/main.570c2d26.chunk.js",
-    "main.js.map": "/wamp-client/static/js/main.570c2d26.chunk.js.map",
+    "main.js": "/wamp-client/static/js/main.79b58c6b.chunk.js",
+    "main.js.map": "/wamp-client/static/js/main.79b58c6b.chunk.js.map",
     "runtime-main.js": "/wamp-client/static/js/runtime-main.789d1aaf.js",
     "runtime-main.js.map": "/wamp-client/static/js/runtime-main.789d1aaf.js.map",
-    "static/js/2.d498c38d.chunk.js": "/wamp-client/static/js/2.d498c38d.chunk.js",
-    "static/js/2.d498c38d.chunk.js.map": "/wamp-client/static/js/2.d498c38d.chunk.js.map",
+    "static/js/2.2db28899.chunk.js": "/wamp-client/static/js/2.2db28899.chunk.js",
+    "static/js/2.2db28899.chunk.js.map": "/wamp-client/static/js/2.2db28899.chunk.js.map",
     "index.html": "/wamp-client/index.html",
     "static/css/main.0f9edf1c.chunk.css.map": "/wamp-client/static/css/main.0f9edf1c.chunk.css.map",
-    "static/js/2.d498c38d.chunk.js.LICENSE.txt": "/wamp-client/static/js/2.d498c38d.chunk.js.LICENSE.txt"
+    "static/js/2.2db28899.chunk.js.LICENSE.txt": "/wamp-client/static/js/2.2db28899.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.789d1aaf.js",
-    "static/js/2.d498c38d.chunk.js",
+    "static/js/2.2db28899.chunk.js",
     "static/css/main.0f9edf1c.chunk.css",
-    "static/js/main.570c2d26.chunk.js"
+    "static/js/main.79b58c6b.chunk.js"
   ]
 }
