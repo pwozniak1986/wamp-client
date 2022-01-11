@@ -63,7 +63,6 @@ export default function App() {
             <Center h='160px' w='600px' gap='12px' flexDirection={'column'}>
                 <Heading size='md'>WAMP CLIENT TEST</Heading>
                 <InputGroup>
-                    <InputLeftAddon children='ws://' />
                     <Input disabled={isConnecting || isConnected} value={address} type='text' placeholder='address:port' onChange={(event) => setAddress(event.target.value)}/>
                 </InputGroup>
                 <InputGroup>
